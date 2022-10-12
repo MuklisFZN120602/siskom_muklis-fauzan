@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+    background-color:chocolate;
+    font-family:"poppins",sans-serif;
+}
+
+*{
+    box-sizing: border-box;
+}
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p{
+    margin:2cm;
+}
+h1  {
+    background-color: aqua;
+    padding-top: 1cm;
+    padding-left: 1cm;
+    padding-bottom: 1cm;
+    padding-right: 0.5cm;
+    font-weight: 72px;
+    font-weight: 600;
+    font: size 64px;
+    font-weight: bold;
+    padding-bottom: 16px;
+}
+h3{
+    background-color: beige;
+    border-radius: 4cm;
+    padding: 2cm;
+}
+p{
+    font-size: 20px;
+}
+.hero-leage {
+    width: 300px;
+    height: 2cm;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+a:hover{
+    color:blue;
+}
+a:active{
+    color:black
+}
